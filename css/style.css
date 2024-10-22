@@ -612,6 +612,8 @@ button.hamburgmenu > i.icon-close {
 
 
 
+
+
     .resume-section h5 {
         font-size: 2rem; /* Ukuran teks lebih kecil untuk layar tablet */
     }
@@ -663,6 +665,8 @@ button.hamburgmenu > i.icon-close {
         margin-bottom: 8px;
         color: #333;
     }
+
+
 }
 
 @media only screen and (max-width: 600px){
@@ -724,5 +728,9 @@ button.hamburgmenu > i.icon-close {
     .send-button {
         padding: 7px 10px;
         font-size: 0.8rem;
+    }
+
+    header{
+        height: 105vh;
     }
 }
